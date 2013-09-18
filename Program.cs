@@ -16,7 +16,15 @@ namespace TestApp
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
 
-			фывфыв
-		}as
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+			/// opaiu diop qjwpdoj qwpodj qwpodj c
+		}
 	}
 }
