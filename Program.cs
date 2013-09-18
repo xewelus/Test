@@ -17,6 +17,6 @@ namespace TestApp
 			Application.Run(new Form1());
 
 			фывфыв
-		}
+		}as
 	}
 }
